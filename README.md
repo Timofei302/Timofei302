@@ -35,23 +35,17 @@ MzE2LDQwMy41MTgsOTUuNTk2LDQyNS4zMDksMTI5LjQ5MnogTTE1NC4yNTIsNTEuMDYgYy0xNi43OTIs
 
 ### Languages and tools
 <span class="langs">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />&nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />&nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40px" />&nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40px" />&nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40px" />&nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40px" />&nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40px" />&nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40px" />&nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40px" />&nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40px" />&nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40px" />
 </span>
 
 ### My stat
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Timofei302&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Timofei302&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Timofei302&theme=blueberry)
-
-<style>
-    .langs img {
-        height: 40px;
-    }
-</style>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Timofei302&theme=blueberry)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Timofei302&theme=blueberry)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Timofei302&theme=blueberry)
